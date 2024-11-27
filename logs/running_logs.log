@@ -1,1 +1,34 @@
 [2024-11-27 03:49:04,264: INFO: main: This is a test log file:]
+[2024-11-27 18:26:48,639: INFO: main: >>>>> <class 'PoultryGuard.pipeline.stage_01_data_ingestion.DataIngesionTrainingPipeline'> has started <<<<<:]
+[2024-11-27 18:26:48,640: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2024-11-27 18:26:48,641: INFO: common: yaml file: params.yaml loaded successfully:]
+[2024-11-27 18:26:48,642: INFO: common: Created directory at: data:]
+[2024-11-27 18:26:48,642: INFO: common: Created directory at: data/data_ingestion:]
+[2024-11-27 18:26:50,457: INFO: data_ingestion: data/data_ingestion/data.zip downloaded with the following info: 
+ Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 43F4:183B0A:2CA30C:33B4CB:6747117C
+Accept-Ranges: bytes
+Date: Wed, 27 Nov 2024 12:54:39 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4749-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1732712079.139318,VS0,VE358
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: cf765807f65167c634ae701c2d710c139e8ff2b1
+Expires: Wed, 27 Nov 2024 12:59:39 GMT
+Source-Age: 0
+
+:]
+[2024-11-27 18:26:50,654: INFO: main: >>>>> <class 'PoultryGuard.pipeline.stage_01_data_ingestion.DataIngesionTrainingPipeline'> has completed <<<<:]
