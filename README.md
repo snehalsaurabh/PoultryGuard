@@ -1,4 +1,5 @@
 # Poultry Guard
+Poultry Guard is a smart tool to detect coccidiosis in poultry. 
 
 ## Development Workflows
 

@@ -1,0 +1,8 @@
+[2024-11-27 14:14:14,759: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2024-11-27 14:14:14,769: INFO: common: yaml file: params.yaml loaded successfully:]
+[2024-11-27 14:14:14,771: INFO: common: Created directory at: data:]
+[2024-11-27 14:14:14,773: INFO: common: Created directory at: data/data_ingestion:]
+[2024-11-27 14:14:54,617: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2024-11-27 14:14:54,620: INFO: common: yaml file: params.yaml loaded successfully:]
+[2024-11-27 14:14:54,621: INFO: common: Created directory at: data:]
+[2024-11-27 14:14:54,622: INFO: common: Created directory at: data/data_ingestion:]

@@ -1,0 +1,7 @@
+data_root: data
+
+data_ingestion:
+  root_dir: data/data_ingestion
+  source_URL: https://github.com/entbappy/Branching-tutorial/raw/refs/heads/master/Chicken-fecal-images.zip
+  local_data_file: data/data_ingestion/data.zip
+  unzip_dir: data/data_ingestion
